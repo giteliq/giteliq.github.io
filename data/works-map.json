@@ -1,0 +1,527 @@
+{
+  "agutagava1.htm": {
+    "work_url": "html/agutagava1.htm",
+    "title": "Ռասյոմոնի դարբասը",
+    "author": "Ագուտագավա Ռյունոսկե"
+  },
+  "agutagava2.htm": {
+    "work_url": "html/agutagava2.htm",
+    "title": "Տարօրինակ պատմություն",
+    "author": "Ագուտագավա Ռյունոսկե"
+  },
+  "agutagava3.htm": {
+    "work_url": "html/agutagava3.htm",
+    "title": "Օրիորդ Ռոկունոմիան",
+    "author": "Ագուտագավա Ռյունոսկե"
+  },
+  "agutagava4.htm": {
+    "work_url": "html/agutagava4.htm",
+    "title": "Թավուտում",
+    "author": "Ագուտագավա Ռյունոսկե"
+  },
+  "agutagava4_p.htm": {
+    "work_url": "html/agutagava4_p.htm",
+    "title": "Թավուտում (նկարազարդված)",
+    "author": "Ագուտագավա Ռյունոսկե"
+  },
+  "uayld1.htm": {
+    "work_url": "html/uayld1.htm",
+    "title": "Արքայադստեր ծննդյան տոնը",
+    "author": "Օսկար Ուայլդ"
+  },
+  "uayld2.htm": {
+    "work_url": "html/uayld2.htm",
+    "title": "Ձկնորսը և նրա հոգին",
+    "author": "Օսկար Ուայլդ"
+  },
+  "oerjanikar.htm": {
+    "work_url": "html/oerjanikar.htm",
+    "title": "Երջանիկ Արքայազնը",
+    "author": "Օսկար Ուայլդ"
+  },
+  "osoxvard.htm": {
+    "work_url": "html/osoxvard.htm",
+    "title": "Սոխակն ու վարդը",
+    "author": "Օսկար Ուայլդ"
+  },
+  "oeshskan.htm": {
+    "work_url": "html/oeshskan.htm",
+    "title": "Եսամոլ հսկան",
+    "author": "Օսկար Ուայլդ"
+  },
+  "osfriend.htm": {
+    "work_url": "html/osfriend.htm",
+    "title": "Անձնազոհ ընկերը",
+    "author": "Օսկար Ուայլդ"
+  },
+  "osraket.htm": {
+    "work_url": "html/osraket.htm",
+    "title": "Երևելի հրթիռը",
+    "author": "Օսկար Ուայլդ"
+  },
+  "osqent.htm": {
+    "work_url": "html/osqent.htm",
+    "title": "Քենթրվիլյան ուրվականը",
+    "author": "Օսկար Ուայլդ"
+  },
+  "olordartur.htm": {
+    "work_url": "html/olordartur.htm",
+    "title": "Լորդ Արթուր Սևիլի ոճիրը",
+    "author": "Օսկար Ուայլդ"
+  },
+  "moem1.htm": {
+    "work_url": "html/moem1.htm",
+    "title": "Նեղ օրվա ընկերը",
+    "author": "Սոմերսեթ Մոեմ"
+  },
+  "moem2.htm": {
+    "work_url": "html/moem2.htm",
+    "title": "Գանձը",
+    "author": "Սոմերսեթ Մոեմ"
+  },
+  "apple.htm": {
+    "work_url": "html/apple.htm",
+    "title": "Խնձորը",
+    "author": "Հերբերթ Ուելս"
+  },
+  "arsen1.htm": {
+    "work_url": "html/arsen1.htm",
+    "title": "Մաս առաջին",
+    "author": "Հայր Արսեն"
+  },
+  "arsen2.htm": {
+    "work_url": "html/arsen2.htm",
+    "title": "Մաս երկրորդ",
+    "author": "Հայր Արսեն"
+  },
+  "arsen3.htm": {
+    "work_url": "html/arsen3.htm",
+    "title": "Մաս երրորդ",
+    "author": "Հայր Արսեն"
+  },
+  "world.htm": {
+    "work_url": "html/world.htm",
+    "title": "Խելացնոր աշխարհ",
+    "author": "ՍԱՇ"
+  },
+  "aleluya.htm": {
+    "work_url": "html/aleluya.htm",
+    "title": "Ալելույա",
+    "author": "ՍԱՇ"
+  },
+  "gavat.htm": {
+    "work_url": "html/gavat.htm",
+    "title": "Գավաթը լի՛ց",
+    "author": "ՍԱՇ"
+  },
+  "machar.htm": {
+    "work_url": "html/machar.htm",
+    "title": "Խելառ մաճառ",
+    "author": "ՍԱՇ"
+  },
+  "sirtim.htm": {
+    "work_url": "html/sirtim.htm",
+    "title": "Սիրտ իմ",
+    "author": "ՍԱՇ"
+  },
+  "amenq.htm": {
+    "work_url": "html/amenq.htm",
+    "title": "Ամենքն էլ նույնն են",
+    "author": "ՍԱՇ"
+  },
+  "sea.htm": {
+    "work_url": "html/sea.htm",
+    "title": "Ծովը...",
+    "author": "ՍԱՇ"
+  },
+  "mirror.htm": {
+    "work_url": "html/mirror.htm",
+    "title": "Ծուռ հայելի",
+    "author": "ՍԱՇ"
+  },
+  "amend.htm": {
+    "work_url": "html/amend.htm",
+    "title": "Ամենը ձեզ...",
+    "author": "ՍԱՇ"
+  },
+  "dserch.htm": {
+    "work_url": "html/dserch.htm",
+    "title": "Ինձ մի՛ որոնիր",
+    "author": "ՍԱՇ"
+  },
+  "tashki.htm": {
+    "work_url": "html/tashki.htm",
+    "title": "Թաշկինակ տվեք",
+    "author": "ՍԱՇ"
+  },
+  "blue.htm": {
+    "work_url": "html/blue.htm",
+    "title": "Կապույտ մեղեդի ջութակի համար",
+    "author": "Հուսիկ Արա"
+  },
+  "van.htm": {
+    "work_url": "html/van.htm",
+    "title": "Պատարագը Սուրբ Խաչ եկեղեցում",
+    "author": "Հուսիկ Արա"
+  },
+  "crisis.htm": {
+    "work_url": "html/crisis.htm",
+    "title": "Ճգնաժամ",
+    "author": "Վանիկ Ադամյան"
+  },
+  "hakob.htm": {
+    "work_url": "html/hakob.htm",
+    "title": "Ձկնորս Հովսեփը",
+    "author": "Վանիկ Ադամյան"
+  },
+  "vdog.htm": {
+    "work_url": "html/vdog.htm",
+    "title": "Անանուն շունը",
+    "author": "Վանիկ Ադամյան"
+  },
+  "fish.htm": {
+    "work_url": "html/fish.htm",
+    "title": "Ակվարիում",
+    "author": "Վանիկ Ադամյան"
+  },
+  "day.htm": {
+    "work_url": "html/day.htm",
+    "title": "Մի օր",
+    "author": "Վանիկ Ադամյան"
+  },
+  "natyurmort.htm": {
+    "work_url": "html/natyurmort.htm",
+    "title": "Նատյուրմորտ ծաղկած ծառի ճյուղով",
+    "author": "Վանիկ Ադամյան"
+  },
+  "spatm.htm": {
+    "work_url": "html/spatm.htm",
+    "title": "Մի սիրո պատմություն",
+    "author": "Վանիկ Ադամյան"
+  },
+  "nancome.htm": {
+    "work_url": "html/nancome.htm",
+    "title": "«Նանը եկավ»",
+    "author": "Վանիկ Ադամյան"
+  },
+  "shoes.htm": {
+    "work_url": "html/shoes.htm",
+    "title": "Մոր կոշիկները",
+    "author": "Վանիկ Ադամյան"
+  },
+  "war.htm": {
+    "work_url": "html/war.htm",
+    "title": "Քու պատերազմ հնարողի՜...",
+    "author": "Վանիկ Ադամյան"
+  },
+  "anmor.htm": {
+    "work_url": "html/anmor.htm",
+    "title": "Կապույտ անմոռուկներ",
+    "author": "Վանիկ Ադամյան"
+  },
+  "dog.htm": {
+    "work_url": "html/dog.htm",
+    "title": "Շունը մեղք է",
+    "author": "Վանիկ Ադամյան"
+  },
+  "return.htm": {
+    "work_url": "html/return.htm",
+    "title": "Պապ, ես վերադարձել եմ",
+    "author": "Վանիկ Ադամյան"
+  },
+  "mva.htm": {
+    "work_url": "html/mva.htm",
+    "title": "Մի վերջին անգամ",
+    "author": "Անահիտ Դավթի Հովհաննիսյան"
+  },
+  "anap.htm": {
+    "work_url": "html/anap.htm",
+    "title": "Անապատում",
+    "author": "Ալվինա Ալեքսանյան"
+  },
+  "adamamut.htm": {
+    "work_url": "html/adamamut.htm",
+    "title": "Ադամամութ է, լուռ է ամեն տեղ",
+    "author": "Աիդա Ղազարյան"
+  },
+  "masre.htm": {
+    "work_url": "html/masre.htm",
+    "title": "Մասրե ծաղիկ",
+    "author": "Աիդա Ղազարյան"
+  },
+  "adhayq.htm": {
+    "work_url": "html/adhayq.htm",
+    "title": "Եղել եմ մի՞թե ես այն ժամանակ",
+    "author": "Աիդա Ղազարյան"
+  },
+  "vovhibch.htm": {
+    "work_url": "html/vovhibch.htm",
+    "title": "Ոչինչ չեմ կարող փոխել",
+    "author": "Աիդա Ղազարյան"
+  },
+  "hogseris.htm": {
+    "work_url": "html/hogseris.htm",
+    "title": "Մի օր հոգսերիս պարկն ուսած",
+    "author": "Աիդա Ղազարյան"
+  },
+  "aworld.htm": {
+    "work_url": "html/aworld.htm",
+    "title": "Խառն է աշխարհը",
+    "author": "Աիդա Ղազարյան"
+  },
+  "shidhar.htm": {
+    "work_url": "html/shidhar.htm",
+    "title": "Շիդհարը",
+    "author": "Ավետիք Իսահակյան"
+  },
+  "oveaprum.htm": {
+    "work_url": "html/oveaprum.htm",
+    "title": "Ով է ապրում",
+    "author": "Ավետիք Իսահակյան"
+  },
+  "ahmed.htm": {
+    "work_url": "html/ahmed.htm",
+    "title": "Ահմեդի ուղտը",
+    "author": "Ավետիք Իսահակյան"
+  },
+  "askharh.htm": {
+    "work_url": "html/askharh.htm",
+    "title": "Աշխարհի դառնությունը",
+    "author": "Ավետիք Իսահակյան"
+  },
+  "bigtrue.htm": {
+    "work_url": "html/bigtrue.htm",
+    "title": "Մեծ ճշմարտությունը",
+    "author": "Ավետիք Իսահակյան"
+  },
+  "pdm.htm": {
+    "work_url": "html/pdm.htm",
+    "title": "Պարադոքս դերասանի մասին",
+    "author": "Դենի Դիդրո"
+  },
+  "fushe0.htm": {
+    "work_url": "fushe.htm",
+    "title": "Ժոզեֆ Ֆուշե",
+    "author": "Ստեֆան Ցվայգ"
+  },
+  "fushe1.htm": {
+    "work_url": "fushe.htm",
+    "title": "Ժոզեֆ Ֆուշե",
+    "author": "Ստեֆան Ցվայգ"
+  },
+  "fushe2.htm": {
+    "work_url": "fushe.htm",
+    "title": "Ժոզեֆ Ֆուշե",
+    "author": "Ստեֆան Ցվայգ"
+  },
+  "fushe3.htm": {
+    "work_url": "fushe.htm",
+    "title": "Ժոզեֆ Ֆուշե",
+    "author": "Ստեֆան Ցվայգ"
+  },
+  "fushe4.htm": {
+    "work_url": "fushe.htm",
+    "title": "Ժոզեֆ Ֆուշե",
+    "author": "Ստեֆան Ցվայգ"
+  },
+  "fushe5.htm": {
+    "work_url": "fushe.htm",
+    "title": "Ժոզեֆ Ֆուշե",
+    "author": "Ստեֆան Ցվայգ"
+  },
+  "fushe6.htm": {
+    "work_url": "fushe.htm",
+    "title": "Ժոզեֆ Ֆուշե",
+    "author": "Ստեֆան Ցվայգ"
+  },
+  "fushe7.htm": {
+    "work_url": "fushe.htm",
+    "title": "Ժոզեֆ Ֆուշե",
+    "author": "Ստեֆան Ցվայգ"
+  },
+  "fushe8.htm": {
+    "work_url": "fushe.htm",
+    "title": "Ժոզեֆ Ֆուշե",
+    "author": "Ստեֆան Ցվայգ"
+  },
+  "fushe9.htm": {
+    "work_url": "fushe.htm",
+    "title": "Ժոզեֆ Ֆուշե",
+    "author": "Ստեֆան Ցվայգ"
+  },
+  "london_starrover1.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover2.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover3.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover4.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover5.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover6.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover7.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover8.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover9.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover910.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover911.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover912.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover913.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover914.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover915.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover916.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover917.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover918.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover919.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover920.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover921.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_starrover922.htm": {
+    "work_url": "london_st.htm",
+    "title": "Զսպաշապիկ (Միջաստղային թափառականը)",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "london_al1.htm": {
+    "work_url": "london_al.htm",
+    "title": "Ալ ժանտախտը",
+    "author": "Ջեկ Լոնդոն"
+  },
+  "aass11.htm": {
+    "work_url": "kun_book.htm",
+    "title": "Հին Հունաստանի առասպելներն ու լեգենդները",
+    "author": "Նիկոլայ Կուն"
+  },
+  "aass1_1.htm": {
+    "work_url": "kun_book.htm",
+    "title": "Հին Հունաստանի առասպելներն ու լեգենդները",
+    "author": "Նիկոլայ Կուն"
+  },
+  "dicgr.htm": {
+    "work_url": "kun_book.htm",
+    "title": "Հին Հունաստանի առասպելներն ու լեգենդները",
+    "author": "Նիկոլայ Կուն"
+  },
+  "dicgh.htm": {
+    "work_url": "kun_book.htm",
+    "title": "Հին Հունաստանի առասպելներն ու լեգենդները",
+    "author": "Նիկոլայ Կուն"
+  },
+  "dicgh2.htm": {
+    "work_url": "kun_book.htm",
+    "title": "Հին Հունաստանի առասպելներն ու լեգենդները",
+    "author": "Նիկոլայ Կուն"
+  },
+  "dicgh3.htm": {
+    "work_url": "kun_book.htm",
+    "title": "Հին Հունաստանի առասպելներն ու լեգենդները",
+    "author": "Նիկոլայ Կուն"
+  },
+  "dicgh3_1.htm": {
+    "work_url": "kun_book.htm",
+    "title": "Հին Հունաստանի առասպելներն ու լեգենդները",
+    "author": "Նիկոլայ Կուն"
+  },
+  "dicgh4.htm": {
+    "work_url": "kun_book.htm",
+    "title": "Հին Հունաստանի առասպելներն ու լեգենդները",
+    "author": "Նիկոլայ Կուն"
+  },
+  "niko.htm": {
+    "work_url": "html/niko.htm",
+    "title": "Նիկոլո Մաքիավելլի — Տիրակալը",
+    "author": ""
+  },
+  "kapmol.htm": {
+    "work_url": "html/kapmol.htm",
+    "title": "Պիեռ Բուլլ — Կապիկների մոլորակը",
+    "author": ""
+  },
+  "dao.htm": {
+    "work_url": "html/dao.htm",
+    "title": "Դաո Դէ Ցզին",
+    "author": ""
+  },
+  "harcakentron.htm": {
+    "work_url": "html/harcakentron.htm",
+    "title": "Հարցակենտրոն կրթություն",
+    "author": ""
+  }
+}
