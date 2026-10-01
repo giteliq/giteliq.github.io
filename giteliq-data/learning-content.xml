@@ -152,4 +152,30 @@ https://youtu.be/SZ_tFT68Wz0
     <correctAnswer></correctAnswer>
     <createdAt>2026-10-01T22:30:53</createdAt>
   </material>
+  <material id="083e3cadcf664c48991589e7cec1a341">
+    <subject>Ֆիզիկա</subject>
+    <grade>7</grade>
+    <topic>Մոլեկուլների շարժումը։ Դիֆուզիա</topic>
+    <type>Վիդեոդաս</type>
+    <title>Մոլեկուլների շարժումը։ Դիֆուզիա | §10</title>
+    <url>https://youtu.be/XQiJ_CJPuAY</url>
+    <body>7-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+Դասում բացատրվում է՝ ինչպես են շարժվում նյութի ատոմներն ու մոլեկուլները,
+ինչ է դիֆուզիան և ինչպես է այն առաջանում մոլեկուլների անկանոն շարժման հետևանքով։
+
+Ներկայացվում են օծանելիքի բույրի տարածման,
+պղնձարջասպի և ջրի խառնման,
+ինչպես նաև գազերում, հեղուկներում և պինդ մարմիններում
+դիֆուզիայի ընթացքի օրինակներ։
+
+Բացատրվում է նաև ջերմաստիճանի ազդեցությունը դիֆուզիայի արագության վրա
+և դիֆուզիայի դերը բնության ու առօրյա կյանքում։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-10-02T00:54:31</createdAt>
+  </material>
 </materials>
