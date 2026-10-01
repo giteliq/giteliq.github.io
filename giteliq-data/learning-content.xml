@@ -104,4 +104,28 @@ https://youtu.be/SZ_tFT68Wz0
     <correctAnswer></correctAnswer>
     <createdAt>2026-10-01T19:02:58</createdAt>
   </material>
+  <material id="5cd0cc5243a24b5f9dda836a200244d5">
+    <subject>Ֆիզիկա</subject>
+    <grade>7</grade>
+    <topic>Ֆիզիկական մարմին և նյութ։ Նյութի կառուցվածքը</topic>
+    <type>Վիդեոդաս</type>
+    <title>Ֆիզիկական մարմին և նյութ | §7</title>
+    <url>https://youtu.be/yYIhdlRZ9Qg</url>
+    <body>7-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+Դասում բացատրվում է՝ ինչ է ֆիզիկական մարմինը,
+ինչ է նյութը, ինչպես կարող են մարմինները կազմված լինել
+մեկ կամ մի քանի նյութերից, և ինչու են նյութերի հատկությունները
+կարևոր դրանց կիրառման համար։
+
+Ներկայացվում է նաև նյութի ընդհատ՝ դիսկրետ կառուցվածքը։
+Փորձերի միջոցով ցույց է տրվում, որ նյութը կազմված է
+չափազանց փոքր մասնիկներից, որոնց միջև կան ազատ տարածություններ։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-10-01T21:13:50</createdAt>
+  </material>
 </materials>
