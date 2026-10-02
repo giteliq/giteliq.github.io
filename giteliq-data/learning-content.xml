@@ -203,4 +203,27 @@ https://youtu.be/SZ_tFT68Wz0
     <correctAnswer></correctAnswer>
     <createdAt>2026-10-03T01:08:51</createdAt>
   </material>
+  <material id="6d88f1e18aaa45b0a52efdbb0b3c65bc">
+    <subject>Ֆիզիկա</subject>
+    <grade>7</grade>
+    <topic>Ջերմաստիճանային սանդղակ։ Ջերմաչափ</topic>
+    <type>Վիդեոդաս</type>
+    <title>Ջերմաստիճանային սանդղակ։ Ջերմաչափ | §12</title>
+    <url>https://youtu.be/ydBpaeg7t38</url>
+    <body>7-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+Դասում բացատրվում է՝ ինչու ջերմաստիճանը պետք է չափել օբյեկտիվորեն,
+ինչ է ջերմաչափը և ինչպես է աշխատում հեղուկային ջերմաչափը։
+
+Ներկայացվում են Ցելսիուսի և Ֆարենհայտի ջերմաստիճանային սանդղակները,
+դրանց հիմնական հենակետերը և փոխարկման բանաձևերը։
+
+Կարճ ներկայացվում է նաև Կելվինի՝ բացարձակ ջերմաստիճանային սանդղակը։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-10-03T01:58:10</createdAt>
+  </material>
 </materials>
