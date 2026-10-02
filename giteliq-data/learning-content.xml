@@ -178,4 +178,29 @@ https://youtu.be/SZ_tFT68Wz0
     <correctAnswer></correctAnswer>
     <createdAt>2026-10-02T00:54:31</createdAt>
   </material>
+  <material id="abcec6f348e9496f83ea367a2cf52a12">
+    <subject>Ֆիզիկա</subject>
+    <grade>7</grade>
+    <topic>Մոլեկուլների քաոսային շարժման արագությունը և ջերմաստիճանը</topic>
+    <type>Վիդեոդաս</type>
+    <title>Մոլեկուլների քաոսային շարժումը և ջերմաստիճանը | §11</title>
+    <url>https://youtu.be/18BpIwngm9M</url>
+    <body>7-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+Դասում բացատրվում է՝ ինչ է ջերմաստիճանը,
+ինչ է ջերմային շարժումը և ինչպես է ջերմաստիճանը
+կապված ատոմների ու մոլեկուլների քաոսային շարժման արագության հետ։
+
+Ներկայացվում են տաք և սառը մարմինների փոխազդեցության,
+գոլորշացման և դիֆուզիայի օրինակներ։
+
+Բացատրվում է նաև, որ ջերմաստիճանի բարձրացման դեպքում
+մոլեկուլների ջերմային շարժման արագությունը մեծանում է։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-10-03T01:08:51</createdAt>
+  </material>
 </materials>
