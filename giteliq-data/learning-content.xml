@@ -333,4 +333,43 @@ v = √(2as)
     <correctAnswer></correctAnswer>
     <createdAt>2026-10-04T01:04:57</createdAt>
   </material>
+  <material id="3a286d34fe0d443b913bae1cf17b8444">
+    <subject>Ֆիզիկա</subject>
+    <grade>8</grade>
+    <topic>Ազատ անկում։ Ազատ անկման արագացումը</topic>
+    <type>Վիդեոդաս</type>
+    <title>Ազատ անկում։ Ազատ անկման արագացումը | §7</title>
+    <url>https://youtu.be/rJixVeGkFv4</url>
+    <body>8-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+Դասում բացատրվում է՝ ինչ է ազատ անկումը, ինչու օդի դիմադրությունը չհաշվելու դեպքում տարբեր մարմիններ ընկնում են նույն արագացմամբ, և ինչ է ազատ անկման արագացումը։
+
+Ներկայացվում է՝
+
+g ≈ 9.8 մ/վ²
+
+ինչպես նաև ազատ անկման հիմնական բանաձևերը՝
+
+v = gt
+
+h = gt² / 2
+
+t = √(2h/g)
+
+v = √(2gh)
+
+Ներկայացվում է նաև ուղղաձիգ վեր նետված մարմնի շարժումը և հիմնական կապերը՝
+
+t₀ = v₀ / g
+
+h₀ = v₀² / 2g։
+
+Դասում ներկայացվում է նաև Գալիլեյի գաղափարը և փետուր–մետաղադրամ փորձը։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-10-04T02:23:37</createdAt>
+  </material>
 </materials>
