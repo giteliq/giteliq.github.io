@@ -273,4 +273,31 @@ a = (v – v₀) / t,
     <correctAnswer></correctAnswer>
     <createdAt>2026-10-03T16:04:40</createdAt>
   </material>
+  <material id="ea7073a2ddc24f9f8ccc9c94afe94273">
+    <subject>Ֆիզիկա</subject>
+    <grade>8</grade>
+    <topic>Արագությունն ուղղագիծ հավասարաչափ փոփոխական շարժման դեպքում</topic>
+    <type>Վիդեոդաս</type>
+    <title>Արագությունը հավասարաչափ փոփոխական շարժման դեպքում | §3</title>
+    <url>https://youtu.be/X44MA69Dm9k</url>
+    <body>8-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+Դասում բացատրվում է, թե ինչպես է փոխվում մարմնի արագությունը
+ուղղագիծ հավասարաչափ փոփոխական շարժման ժամանակ։
+
+Ներկայացվում են արագացող և դանդաղող շարժման հիմնական բանաձևերը՝
+v = v₀ + at
+և
+v = v₀ – at։
+
+Բացատրվում է նաև արագություն–ժամանակ (v–t) գրաֆիկի իմաստը,
+ինչպես գրաֆիկից որոշել սկզբնական և տվյալ պահի արագությունները,
+և ինչպես հասկանալ՝ մարմինն արագանում է, թե դանդաղում։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-10-03T17:21:48</createdAt>
+  </material>
 </materials>
