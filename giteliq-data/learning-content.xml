@@ -226,4 +226,26 @@ https://youtu.be/SZ_tFT68Wz0
     <correctAnswer></correctAnswer>
     <createdAt>2026-10-03T01:58:10</createdAt>
   </material>
+  <material id="3135a2ea02a4400abfed4c22581cf424">
+    <subject>Ֆիզիկա</subject>
+    <grade>8</grade>
+    <topic>Անհավասարաչափ շարժում։ Միջին արագություն</topic>
+    <type>Վիդեոդաս</type>
+    <title>Անհավասարաչափ շարժում։ Միջին արագություն | §1</title>
+    <url>https://youtu.be/eR1od2HcAyE</url>
+    <body>8-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+Դասում ներկայացվում է կինեմատիկայի ներածությունը,
+հավասարաչափ և անհավասարաչափ շարժումների տարբերությունը,
+միջին արագության գաղափարը և դրա հաշվարկման բանաձևը։
+
+Բացատրվում է նաև, թե ինչ է ակնթարթային արագությունը
+և ինչով է այն տարբերվում միջին արագությունից։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-10-03T15:04:40</createdAt>
+  </material>
 </materials>
