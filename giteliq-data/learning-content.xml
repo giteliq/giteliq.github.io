@@ -248,4 +248,29 @@ https://youtu.be/SZ_tFT68Wz0
     <correctAnswer></correctAnswer>
     <createdAt>2026-10-03T15:04:40</createdAt>
   </material>
+  <material id="5af3a0a4867f4cf897191c81998d01f9">
+    <subject>Ֆիզիկա</subject>
+    <grade>8</grade>
+    <topic>Ուղղագիծ հավասարաչափ փոփոխական շարժում։ Արագացում</topic>
+    <type>Վիդեոդաս</type>
+    <title>Հավասարաչափ փոփոխական շարժում։ Արագացում | §2</title>
+    <url>https://youtu.be/MfeaPQRX76M</url>
+    <body>8-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+Դասում բացատրվում է՝ ինչ է հավասարաչափ փոփոխական շարժումը,
+ինչ է արագացումը և ինչպես է այն բնութագրում արագության փոփոխությունը։
+
+Ներկայացվում է արագացման հիմնական բանաձևը՝
+a = (v – v₀) / t,
+արագացման միավորը՝ մ/վ²,
+ինչպես նաև արագացման ուղղությունը արագացող և դանդաղող շարժման ժամանակ։
+
+Տրվում են նաև պարզ թվային օրինակներ և մեքենայի շարժման տեսողական բացատրություններ։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-10-03T16:04:40</createdAt>
+  </material>
 </materials>
