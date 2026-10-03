@@ -300,4 +300,37 @@ v = v₀ – at։
     <correctAnswer></correctAnswer>
     <createdAt>2026-10-03T17:21:48</createdAt>
   </material>
+  <material id="4145f7bd6ef14cb39b412552fffe0cf8">
+    <subject>Ֆիզիկա</subject>
+    <grade>8</grade>
+    <topic>Հավասարաչափ փոփոխական շարժման ժամանակ անցած ճանապարհը</topic>
+    <type>Վիդեոդաս</type>
+    <title>Հավասարաչափ փոփոխական շարժման ժամանակ անցած ճանապարհը | §4</title>
+    <url>https://youtu.be/hAk7qTlA_w8</url>
+    <body>8-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+Դասում բացատրվում է, թե ինչպես կարելի է արագություն–ժամանակ (v–t) գրաֆիկի միջոցով որոշել մարմնի անցած ճանապարհը։
+
+Ներկայացվում է, որ v–t գրաֆիկի տակ գտնվող մակերեսը համապատասխանում է անցած ճանապարհին։
+
+Հավասարաչափ արագացող շարժման համար ստացվում են՝
+
+s = at² / 2
+
+և
+
+s = v² / 2a։
+
+Ներկայացվում է նաև՝
+
+v = √(2as)
+
+կապը, ինչպես նաև դանդաղող շարժման դեպքում մինչև կանգ առնելը անցած ճանապարհի որոշումը։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-10-04T01:04:57</createdAt>
+  </material>
 </materials>
