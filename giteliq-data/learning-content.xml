@@ -628,4 +628,40 @@ q₁ + q₂ + ... = const
     <correctAnswer></correctAnswer>
     <createdAt>2026-10-05T19:54:00</createdAt>
   </material>
+  <material id="be4a69307d4245beabb04bd578ac3ddd">
+    <subject>Ֆիզիկա</subject>
+    <grade>9</grade>
+    <topic>Հոսանքի ուժ։ Ամպերաչափ</topic>
+    <type>Վիդեոդաս</type>
+    <title>Հոսանքի ուժ։ Ամպերաչափ | §9</title>
+    <url>https://youtu.be/-X1r56ZQ7zc</url>
+    <body>9-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+Գլուխ I — Էլեկտրական երևույթներ։
+
+Դասում ներկայացվում է հոսանքի ուժը՝ որպես հաղորդիչի լայնական հատույթով միավոր ժամանակում անցնող էլեկտրական լիցքը բնութագրող ֆիզիկական մեծություն։
+
+Ներկայացվում է հոսանքի ուժի բանաձևը՝
+
+I = q / t
+
+որտեղ՝
+I — հոսանքի ուժն է,
+q — անցած էլեկտրական լիցքը,
+t — ժամանակը։
+
+Այստեղից՝
+
+q = It։
+
+Հոսանքի ուժի SI համակարգի չափման միավորը ամպերն է։
+
+Բացատրվում է նաև ամպերաչափի նշանակությունը և այն, որ ամպերաչափը էլեկտրական շղթայում միացվում է հաջորդաբար։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-10-05T21:10:22</createdAt>
+  </material>
 </materials>
