@@ -664,4 +664,36 @@ q = It։
     <correctAnswer></correctAnswer>
     <createdAt>2026-10-05T21:10:22</createdAt>
   </material>
+  <material id="de2ceb01fbb247b7a39a16a8f52adff2">
+    <subject>Ֆիզիկա</subject>
+    <grade>9</grade>
+    <topic>Էլեկտրական լարում։ Վոլտաչափ</topic>
+    <type>Վիդեոդաս</type>
+    <title>Էլեկտրական լարում։ Վոլտաչափ | §10</title>
+    <url>https://youtu.be/xmCSyUYRAM0</url>
+    <body>9-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+Գլուխ I — Էլեկտրական երևույթներ։
+
+Դասում ներկայացվում է էլեկտրական լարումը՝ որպես էլեկտրական դաշտի կատարած աշխատանքը բնութագրող ֆիզիկական մեծություն։
+
+Ներկայացվում է լարման բանաձևը՝
+
+U = A / q
+
+որտեղ՝
+U — լարումն է,
+A — էլեկտրական դաշտի կատարած աշխատանքը,
+q — տեղափոխված էլեկտրական լիցքը։
+
+Լարման SI համակարգի չափման միավորը վոլտն է։
+
+Բացատրվում է նաև վոլտաչափի նշանակությունը և այն, որ վոլտաչափը շղթայի համապատասխան տեղամասին միացվում է զուգահեռ։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-10-05T21:42:29</createdAt>
+  </material>
 </materials>
