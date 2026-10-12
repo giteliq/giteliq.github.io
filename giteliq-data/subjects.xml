@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<subjects>
+  <subject id="0b3b2cc5d0c64309ab969d8db4cfee27">
+    <name>Ֆիզիկա</name>
+    <slug>physics</slug>
+    <pageFile>physics.htm</pageFile>
+    <sortOrder>10</sortOrder>
+    <isActive>True</isActive>
+  </subject>
+  <subject id="0c727c8e5ecb47e89e9c8be3c5d1d625">
+    <name>Մաթեմատիկա</name>
+    <slug>math</slug>
+    <pageFile>math.htm</pageFile>
+    <sortOrder>20</sortOrder>
+    <isActive>True</isActive>
+  </subject>
+  <subject id="6a8c4877a35e44809ecc247bbe9d3084">
+    <name>Երկրաչափություն</name>
+    <slug>geometry</slug>
+    <pageFile>geometry.htm</pageFile>
+    <sortOrder>30</sortOrder>
+    <isActive>True</isActive>
+  </subject>
+</subjects>
