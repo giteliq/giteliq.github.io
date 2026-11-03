@@ -8184,4 +8184,27 @@ AC &gt; AB,
     <correctAnswer></correctAnswer>
     <createdAt>2026-11-03T18:11:40</createdAt>
   </material>
+  <material id="74b2988ea63a4f49a83be64e5fefdc4d">
+    <subject>Ֆիզիկա</subject>
+    <grade>7</grade>
+    <topic>Մեխանիզմի օգտակար գործողության գործակից</topic>
+    <type>Վիդեոդաս</type>
+    <title>Մեխանիզմի օգտակար գործողության գործակից | §37</title>
+    <url>https://youtu.be/JxCuai3uktw</url>
+    <body>7-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+§37 — Մեխանիզմի օգտակար գործողության գործակից (ՕԳԳ)։
+
+Դասում բացատրվում են օգտակար և լրիվ մեխանիկական աշխատանքները, էներգիայի կորուստները և մեխանիզմի արդյունավետությունը։
+
+Ներկայացվում է ՕԳԳ-ի հաշվարկման բանաձևը՝ η = (Aօգտ / Aլրիվ) × 100%, և բացատրվում է, թե ինչու է իրական մեխանիզմների ՕԳԳ-ն փոքր 100%-ից։
+
+Քննարկվում են հաշվարկման օրինակներ, դասագրքի հարցերն ու վարժությունները։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-11-03T19:09:45</createdAt>
+  </material>
 </materials>
