@@ -8094,4 +8094,27 @@ AC &gt; AB,
     <correctAnswer></correctAnswer>
     <createdAt>2026-11-03T13:42:07</createdAt>
   </material>
+  <material id="bc47507b574147018ba2065c5ba8df37">
+    <subject>Ֆիզիկա</subject>
+    <grade>7</grade>
+    <topic>Աշխատանք և հզորություն</topic>
+    <type>Վիդեոդաս</type>
+    <title>Հզորություն | §33</title>
+    <url>https://youtu.be/ufP4UVi_NHI</url>
+    <body>7-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+§33 — Հզորություն։
+
+Դասում բացատրվում են հզորության հասկացությունը, մեխանիկական աշխատանքի և ժամանակի կապը, հզորության հաշվարկման բանաձևը՝ N = A/t։
+
+Ներկայացվում են հզորության չափման միավորները՝ վատտ (Վտ), կիլովատտ (կՎտ) և մեգավատտ (ՄՎտ)։
+
+Քննարկվում են հաշվարկման օրինակներ, դասագրքի հարցերը, վարժություններն ու գործնական առաջադրանքը։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-11-03T14:55:16</createdAt>
+  </material>
 </materials>
