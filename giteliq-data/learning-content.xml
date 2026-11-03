@@ -8253,4 +8253,27 @@ AC &gt; AB,
     <correctAnswer></correctAnswer>
     <createdAt>2026-11-03T21:13:48</createdAt>
   </material>
+  <material id="5f0b42ee4dbb4de7b8e583f76b712353">
+    <subject>Ֆիզիկա</subject>
+    <grade>7</grade>
+    <topic>Ճնշում, ճնշման ուժ</topic>
+    <type>Վիդեոդաս</type>
+    <title>Ճնշում, ճնշման ուժ | §40</title>
+    <url>https://youtu.be/8as6DuVX7Ss</url>
+    <body>7-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+§40 — Ճնշում, ճնշման ուժ։
+
+Դասում բացատրվում են ճնշման և ճնշման ուժի հասկացությունները, դրանց տարբերությունը և ճնշման կախվածությունը ուժից ու հպման մակերեսից։
+
+Ներկայացվում են ճնշման հաշվարկման բանաձևը՝ p = F/S, և չափման միավորը՝ պասկալը (Պա)։
+
+Քննարկվում են ճնշման մեծացման ու փոքրացման եղանակները, առօրյա օրինակները, դասագրքի հարցերն ու վարժությունները։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-11-03T21:58:46</createdAt>
+  </material>
 </materials>
