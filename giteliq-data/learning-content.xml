@@ -8071,4 +8071,27 @@ AC &gt; AB,
     <correctAnswer></correctAnswer>
     <createdAt>2026-11-03T12:29:18</createdAt>
   </material>
+  <material id="00a48ab428be46cc9acb15bd49be4f75">
+    <subject>Ֆիզիկա</subject>
+    <grade>7</grade>
+    <topic>Մեխանիկական աշխատանք</topic>
+    <type>Վիդեոդաս</type>
+    <title>Մեխանիկական աշխատանք | §32</title>
+    <url>https://youtu.be/v3qZBWBgLVE</url>
+    <body>7-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+§32 — Մեխանիկական աշխատանք։
+
+Դասում բացատրվում են մեխանիկական աշխատանքի հասկացությունը, դրա կատարման պայմանները և հաշվարկման բանաձևը՝ A = F × s։
+
+Ներկայացվում են աշխատանքի չափման միավորը՝ ջոուլը (Ջ), դրական, բացասական և զրոյական աշխատանքի օրինակները։
+
+Քննարկվում են դասագրքի հարցերն ու վարժությունները։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-11-03T13:42:07</createdAt>
+  </material>
 </materials>
