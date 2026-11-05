@@ -8621,4 +8621,27 @@ AC &gt; AB,
     <correctAnswer></correctAnswer>
     <createdAt>2026-11-05T20:01:40</createdAt>
   </material>
+  <material id="88dd1b82f8d34cadb2e92be3c45ec9d5">
+    <subject>Ֆիզիկա</subject>
+    <grade>8</grade>
+    <topic>Խնդիրների լուծում</topic>
+    <type>Վիդեոդաս</type>
+    <title>Խնդիրների լուծում | §10</title>
+    <url>https://youtu.be/DUAJpI9bey0</url>
+    <body>8-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+§10 — Խնդիրների լուծում։
+
+Դասում ներկայացվում են հավասարաչափ շրջանագծային շարժմանը վերաբերող ֆիզիկական խնդիրների լուծման եղանակները։
+
+Բացատրվում են պտտման պարբերության, հաճախության և գծային արագության հաշվարկները՝ կիրառելով T = t/N, n = N/t և v = 2πR/T բանաձևերը։
+
+Քայլ առ քայլ քննարկվում են դասագրքի 4 խնդիրները, անհրաժեշտ բանաձևերի ընտրությունը, չափման միավորների փոխակերպումը և ստացված արդյունքների վերլուծությունը։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-11-06T01:37:07</createdAt>
+  </material>
 </materials>
