@@ -8598,4 +8598,27 @@ AC &gt; AB,
     <correctAnswer></correctAnswer>
     <createdAt>2026-11-05T19:28:25</createdAt>
   </material>
+  <material id="c1ae9c6bf9bd42edb28d6972708da101">
+    <subject>Ֆիզիկա</subject>
+    <grade>7</grade>
+    <topic>Խնդիրների լուծում</topic>
+    <type>Վիդեոդաս</type>
+    <title>Խնդիրների լուծում | §55</title>
+    <url>https://youtu.be/3PqkRWBMfcE</url>
+    <body>7-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+§55 — Խնդիրների լուծում։
+
+Դասում ներկայացվում են Արքիմեդի օրենքին, մարմինների լողալու պայմաններին և օդագնացությանը վերաբերող ֆիզիկական խնդիրների լուծման եղանակները։
+
+Քայլ առ քայլ բացատրվում են խնդիրների պայմանների վերլուծությունը, անհրաժեշտ բանաձևերի ընտրությունը և հաշվարկների կատարումը։
+
+Կրկնվում են արքիմեդյան ուժի՝ Fₐ = ρgV, ծանրության ուժի՝ F = mg, և մարմինների լողալու հավասարակշռության՝ Fₐ = F հիմնական բանաձևերն ու սկզբունքները։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-11-05T20:01:40</createdAt>
+  </material>
 </materials>
