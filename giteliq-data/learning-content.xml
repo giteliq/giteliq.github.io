@@ -8999,4 +8999,27 @@ m₁v⃗₁ + m₂v⃗₂ = m₁v⃗′₁ + m₂v⃗′₂
     <correctAnswer></correctAnswer>
     <createdAt>2026-11-09T22:36:54</createdAt>
   </material>
+  <material id="dc1980763f834e798d04884021efc64d">
+    <subject>Ֆիզիկա</subject>
+    <grade>8</grade>
+    <topic>Խնդիրների լուծում</topic>
+    <type>Վիդեոդաս</type>
+    <title>Խնդիրների լուծում §24</title>
+    <url>https://youtu.be/W4Xag3wi0h0</url>
+    <body>8-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+§24 — Խնդիրների լուծում։
+
+Դասում քայլ առ քայլ ներկայացվում են մեխանիկական էներգիայի, կինետիկ և պոտենցիալ էներգիաների, ինչպես նաև լրիվ մեխանիկական էներգիայի պահպանման օրենքի վերաբերյալ խնդիրների լուծումները։
+
+Բացատրվում են Eկ = mv²/2, Eպ = mgh և E = Eկ + Eպ բանաձևերի կիրառումը, էներգիայի փոխակերպումների վերլուծությունը և անհայտ ֆիզիկական մեծությունների հաշվարկը։
+
+Քննարկվում են դասագրքի §24-ի բոլոր 6 խնդիրները՝ լուծման ընթացքով, հաշվարկներով և պատասխաններով։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-11-09T23:35:37</createdAt>
+  </material>
 </materials>
