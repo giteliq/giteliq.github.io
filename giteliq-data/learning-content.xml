@@ -9068,4 +9068,27 @@ m₁v⃗₁ + m₂v⃗₂ = m₁v⃗′₁ + m₂v⃗′₂
     <correctAnswer></correctAnswer>
     <createdAt>2026-11-10T14:55:31</createdAt>
   </material>
+  <material id="5626363bb207417f97b507b41781fa3d">
+    <subject>Ֆիզիկա</subject>
+    <grade>8</grade>
+    <topic>Խնդիրների լուծում</topic>
+    <type>Վիդեոդաս</type>
+    <title>Խնդիրների լուծում §27</title>
+    <url>https://youtu.be/P84ibhBAu-0</url>
+    <body>8-րդ դասարանի ֆիզիկայի վիդեոդաս։
+
+§27 — Խնդիրների լուծում։
+
+Դասում քայլ առ քայլ ներկայացվում են մեխանիկական տատանումների, մաթեմատիկական և զսպանակավոր ճոճանակների վերաբերյալ ֆիզիկական խնդիրների լուծումները։
+
+Բացատրվում են տատանման պարբերության և հաճախության հաշվարկները, T = t/N, ν = 1/T, մաթեմատիկական ճոճանակի T = 2π√(l/g) և զսպանակավոր ճոճանակի T = 2π√(m/k) բանաձևերի կիրառումը։
+
+Քննարկվում են դասագրքի §27-ի բոլոր 4 խնդիրները՝ լուծման ընթացքով, հաշվարկներով և պատասխաններով։</body>
+    <optionA></optionA>
+    <optionB></optionB>
+    <optionC></optionC>
+    <optionD></optionD>
+    <correctAnswer></correctAnswer>
+    <createdAt>2026-11-10T16:45:28</createdAt>
+  </material>
 </materials>
